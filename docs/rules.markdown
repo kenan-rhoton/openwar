@@ -41,6 +41,9 @@ Improvements will come with a set of different costs:
 1. Cost for miniature: cost to apply the improvement to a single miniature
 2. Cost for unit: cost to apply the improvement to an entire Unit
 
+Miniatures in a Unit must at all times be within 5cm from one another.
+If a Unit becomes split into more than one group, it can only take the Regroup Action until it forms back into a single group.
+
 ## Tools
 
 Measuring tape.
@@ -51,18 +54,25 @@ A bunch of six-sided dice.
 You may only do it when instructed to.
 Distances between models are measured from the closest point in their bases.
 
-
 ## The Battlefield
 
 90cm x 90cm size, with appropriate terrain.
 
 ## Army Setup
 
+Players take turns setting up entire units within their deployment zones until they each have no more Units to deploy.
+
 # Battle Rounds
 
 ## The Turn
 
 ## The Orders
+
+1. Advance: Only when out of combat. Choose between: Shoot and Move, Move and Shoot, Move and Fight.
+2. Hold: +1 Defense. You may Shoot or Fight with +1 Accuracy.
+3. Run: Take Exhaustion and Move double the normal distance in a straight line.
+4. Skill: Use a special skill.
+5. Regroup: Move all miniatures up to 5cm directly towards another miniature in the Unit.
 
 # Moving
 
@@ -74,7 +84,14 @@ Distances between models are measured from the closest point in their bases.
 
 ## Charging
 
+Finishing a run within combat distance of an enemy (10cm) is considered a Charge.
+You may not Charge if you are already in combat,
+You may Fight immediately after a Charge, with +2 to Push.
+
 ## Retreating
+
+Starting a run within combat distance of an enemy (10cm) is considered a Retreat.
+You may not end a Retreat within combat distance of any enemies.
 
 # Fighting
 
