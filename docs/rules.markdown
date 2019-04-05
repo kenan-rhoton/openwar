@@ -142,6 +142,18 @@ Resolve each attack as with the Fighting Attack Sequence, except that the Ranged
 
 # Unit options
 
+## Defenses
+
+Name          | Armor Bonus | Morale Bonus | Cost1,10,20,U | Special
+Bladed Shield | +1          | 0            | 4,3,2,35      | Bladed
+Large Shield  | +3          | 0            | 10,8,7,50     | 
+
+
+
+### Specials
+
+- Bladed: If a melee Damage roll against this miniature fails with a 1 in, roll a Damage roll against the attacking miniature with Pierce 0.
+
 ## Weapons
 
 Name                | Ranged/Melee | Attacks | Difficulty | Pierce | Cost1,10,20,U | Special
@@ -157,10 +169,23 @@ Javelin	(Thrown)    | Ranged (10)  | 1       | 5          | 1      | ---------  
 Heavy Javelin       | Melee        | 1       | 5          | 1      | 5,4,3,40      | Thrown
 Heavy Jav. (Thrown) | Ranged (10)  | 1       | 6          | 2      | ---------     | Shieldstick
 
-## Specials
+### Specials
 
 - Thrown: Weapon may be used as a Ranged weapon once, then it is lost.
 - Second Rank: Miniatures in combat may attack with this weapon to attack enemy miniatures that a friendly miniature in base to base contact could attack without this rule.
 - Shock: a miniature that hits with this weapon adds +1 to the Presence check, even if it doesn't slay an enemy.
 
+## Skills
+
+Name | Cost1,10,20,U | Description
+
+
+### Specials
+
 # Scenarios
+
+# Armies
+
+## Fyreslayers
+
+- The Black Anvil: Defenders with Warhammers, Bladed Shields and Berserk Fury
