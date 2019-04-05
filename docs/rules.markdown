@@ -149,7 +149,8 @@ Dagger				| Melee			| 1			| 7				| 3			| 2,-,-,15		| ---
 Sword				| Melee			| 3			| 5				| 0			| 10,8,7,-		| Halfsword
 Sword (Halfsword)	| Melee			| 1			| 6				| 1			| ---------		| ---
 Axe					| Melee			| 2			| 6				| 2			| 3,2,2,30		| ---
-Warhammer			| Melee			| 2			| 5				| 1			| 4,3,2,35		| Shock
+Warhammer			| Melee			| 2			| 5				| 1			| 4,3,2,35		| Shock, Spike
+Warhammer (Spike)	| Melee			| 1			| 5				| 2			| ---------		| 
 Spear				| Melee			| 1			| 4				| 1			| 3,2,2,30		| Second Rank
 Javelin				| Melee			| 1			| 4				| 0			| 3,2,2,25		| Thrown
 Javelin	(Thrown)	| Ranged (10)	| 1			| 5				| 1			| ---------		| ---
